@@ -93,7 +93,14 @@ margin-top: 90px;
     display: none;
     
 }
-
+.video {
+    max-width: 480px;
+    padding: 30px 20px 40px;;
+}
+.video iframe {
+     max-width: 400px;
+    height:320px;
+}
 
 
 
